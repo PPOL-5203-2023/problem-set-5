@@ -2,7 +2,7 @@
 
 This repository contains exercises for the Machine Learning and Text as Data Class. 
 
-**Deadline:** 11:59pm of November 27
+**Deadline:** 11:59pm of November 22
 
 ## General Rules for Problem Sets
 
